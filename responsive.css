@@ -1,0 +1,34 @@
+/* Default Layout:992px */
+
+
+/* Tablet Layout:768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {
+.banner-img  img{width:20%;
+background:none;
+margin-top: -464px;}
+}
+
+
+/* Mobile Layout:320px */
+@media only screen and (min-width: 320px) and (max-width:767px) {
+.banner-img  img{width:20%;
+background:none;
+margin-top: -464px;}
+.form{
+	display: inline-block;
+	padding: 26px 0px 26px 36px;
+width: 85%;
+background: black none repeat scroll 0% 0%;
+font-size: 10px;
+	
+}
+.dip{margin-top: -213px;}
+
+
+}
+
+
+/* Wide Mobile Layout:480px */
+@media only screen and (min-width: 480px) and (max-width:767px) {
+
+}

@@ -1,0 +1,94 @@
+
+.banner {
+    background-image: url('../Shape-22.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    
+    color: white;height:646px
+}
+.intro-text {
+ padding-top: 204px;
+padding-bottom: 354px;
+}
+.navbar-default{
+	background:transparent;
+	border:none
+	
+}
+.intro-heading{
+	font-size: 20px;
+line-height: 30px;
+padding-top: 34px;
+	font-family: 'Conv_Georgia';
+	font-style:italic;
+}
+.pull-right {
+    float: none;
+}
+.pull-right {
+    float: none !important;padding: 30px 0px 52px 0px;
+}
+.fa{
+	border-radius: 42px;
+	
+}
+
+.btn-success {
+    color: ;
+    background-color: white;
+    border-color: #4cae4c;border: 2px solid skyblue;border-radius: 8px
+}
+.btn{
+	padding: 4px 4px;
+	margin: 2px;
+}
+.submit{background:url('../email.png') no-repeat;border: none;margin-left: -71px;}
+.form{
+	display: inline-block;
+	padding: 26px 0px 26px 36px;
+width: 85%;
+background: black none repeat scroll 0% 0%;
+font-size: 15px;
+	
+}
+.dip i {
+    background: red none repeat scroll 0% 0%;
+    font-size: 17px;
+    padding: 11px 13px;
+    border-radius: ;
+    border-radius: 0px;
+	margin: 0px 6px;color:white
+}
+
+.form-group {
+    
+    padding: 10px 0px 228px;
+}
+p{
+	font-family: 'Conv_Georgia';
+	font-style:italic;
+	line-height: 24px;
+	
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom:30px;color:skyblue;
+}
+
+
+.btn-success:focus {
+    color: #fff;
+    background-color: skyblue;
+    border-color: skyblue;padding: 1px 1px;
+}
+.carousel-inner{margin-top:20px}
+
+
+
+
+
